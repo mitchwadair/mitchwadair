@@ -13,3 +13,6 @@ MtheBot_ is a chatbot for Twitch which aims to make it easy for streamers to hav
 
 ## My Top Technologies
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=ffd42a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=ffd42a)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=ffd42a)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=ffd42a)
