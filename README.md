@@ -7,6 +7,10 @@ I am currently working on a couple of major projects.
 TESjs is a module for Node.js that streamlines usage of Twitch's EventSub system.  
 [![TESjs](https://github-readme-stats.vercel.app/api/pin/?username=mitchwadair&repo=tesjs)](https://github.com/mitchwadair/tesjs)
 
+### ClipNShip
+ClipNShip is a browser module that allows consumers to modify video to be in TikTok format completely client-side.
+[![ClipNShip](https://github-readme-stats.vercel.app/api/pin/?username=mitchwadair&repo=clip-n-ship)](https://github.com/mitchwadair/clip-n-ship)
+
 ### MtheBot_
 MtheBot_ is a chatbot for Twitch which aims to make it easy for streamers to have an interactive experience with their viewers.  
 [![MtheBot_](https://github-readme-stats.vercel.app/api/pin/?username=mitchwadair&repo=mthebot)](https://github.com/mitchwadair/mthebot)
